@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/progali007?logo=github&style=for-th
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/progali007/100-DAYS-CSS-CHALLENGE" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=progali007&repo=100-DAYS-CSS-CHALLENGE&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/progali007/Covid19App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=progali007&repo=Covid19App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/progali007/Cryptocurrency-Web-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=progali007&repo=Cryptocurrency-Web-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/progali007/Covid19App" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=progali007&repo=Covid19App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
