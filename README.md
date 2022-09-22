@@ -1,7 +1,7 @@
 Hi 👋 My name is Ali Ahangary
 =============================
 
-Web Developer - Ui/Ux Designer
+Front-End Developer (React js)
 ------------------------------
 
 I have been learning to program for 4 years. I started with the C language (robotics and Arduino). But I fell in love with JavaScript and moved on to front-end programming and Ui/Ux design
