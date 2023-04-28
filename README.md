@@ -6,7 +6,7 @@ Front-End Developer (React js)
 
 I have been learning to program for 4 years. I started with the C language (robotics and Arduino). But I fell in love with JavaScript and moved on to front-end programming and Ui/Ux design
 
-* ✉️  You can contact me at [code.progali@gmail.com](mailto:code.progali@gmail.com)
+* ✉️  You can contact me at [nonchain007@gmail.com](mailto:nonchain007@gmail.com)
 * 🧠  I'm learning React
 * ⚡  I love Games and Amine
 
