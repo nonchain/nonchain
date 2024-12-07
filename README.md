@@ -4,10 +4,10 @@ Hi 👋 My name is Ali Ahangary
 Front-End Developer (React js)
 ------------------------------
 
-I have been learning to program for 4 years. I started with the C language (robotics and Arduino). But I fell in love with JavaScript and moved on to front-end programming and Ui/Ux design
+A gamer who fell in love with JavaScript
+Hello! I’m a front-end developer with over 3 years of experience, specializing in **React.js** and **TypeScript**, and with familiarity in **Next.js**.
 
 * ✉️  You can contact me at [nonchain007@gmail.com](mailto:nonchain007@gmail.com)
-* 🧠  I'm learning React
 * ⚡  I love Games and Amine
 
 <a href="https://www.github.com/nonchain" target="_blank" rel="noreferrer"><img
