@@ -5,7 +5,7 @@ Front-End Developer (React js)
 ------------------------------
 
 A gamer who fell in love with JavaScript
-Hello! I’m a front-end developer with over 3 years of experience, specializing in **React.js** and **TypeScript**, and with familiarity in **Next.js**.
+Hello! I’m a front-end developer with over **3 years** of experience, specializing in **React.js** and **TypeScript**, and with familiarity in **Next.js**.
 
 * ✉️  You can contact me at [nonchain007@gmail.com](mailto:nonchain007@gmail.com)
 * ⚡  I love Games and Amine
